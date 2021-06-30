@@ -1,0 +1,5 @@
+main-wrapper[data-layout=vertical][data-header-position=fixed] .topbar {
+    position: fixed;
+    width: 100%;
+    background: #fff;
+    
